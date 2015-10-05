@@ -1,0 +1,17 @@
+/legal_disclaimer.txt
+/project_information.txt
+/getting_started.txt
+/build/
+/debug/
+/dist/XC8_PIC16F1823/production/memoryfile.xml
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.sdb
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.elf
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.mum
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.sym
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.obj
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.cmf
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.hxl
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.map
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.lst
+/dist/XC8_PIC16F1823/production/PIRUSensor.X.production.rlf
+/nbproject/
