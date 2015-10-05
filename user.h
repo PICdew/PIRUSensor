@@ -25,7 +25,7 @@
 #define PIR_ACTIVE  1
 
 #define LOOP_TIME     16   //seconds
-#define MAX_RELAY_ON  80   //60*60    // seconds, 1 hour
+#define MAX_RELAY_ON  60*60    // seconds, 1 hour
 #define MAX_RELAY_ON_LOOP       MAX_RELAY_ON/LOOP_TIME 
 
 
